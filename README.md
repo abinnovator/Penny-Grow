@@ -47,7 +47,7 @@
 </ul>
 
 <h2>Contributing</h2>
-<p>Since this is a private project, contributions are only accepted from authorized collaborators. If you would like to contribute, please reach out to the project owner for access.</p>
+<p>Since this is a private project, contributions are only accepted from authorized collaborators. If you would like to contribute, please reach out to the me.</p>
 
 <h2>License</h2>
 <p>All rights reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.</p>
