@@ -16,7 +16,7 @@
 <p>Check out the live version of the app here: <a href="https://penny-grow.vercel.app">Penny Grow</a></p>
 
 <h2>Installation</h2>
-<p>As this is a private project, direct access to the code is restricted. If you have permission, follow the steps below to run the app locally.</p>
+<p>As this is a private project, direct access to the code is restricted. If you have permission, you can follow the steps below to run the app locally.</p>
 
 <ol>
   <li>Clone the private repository:
@@ -36,7 +36,7 @@
 <p>Your app will be available at <code>http://localhost:3000</code>.</p>
 
 <blockquote>
-  <p><strong>Note</strong>: The code is in a private reprository andd code is only accesible by only official contributers</p>
+  <p><strong>Note</strong>: The code is in a private repository and code is only accessible by only official contributors </p>
 </blockquote>
 
 <h2>Technologies Used</h2>
@@ -47,7 +47,7 @@
 </ul>
 
 <h2>Contributing</h2>
-<p>Since this is a private project, contributions are only accepted from authorized collaborators. If you would like to contribute, please reach out to the me.</p>
+<p>Since this is a private project, authorized collaborators only accept contributions. If you would like to contribute, please reach out to me.</p>
 
 <h2>License</h2>
 <p>All rights reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.</p>
