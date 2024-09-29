@@ -1,5 +1,7 @@
 <h1>Penny Grow</h1>
 
+<img src='/assests/685shots_so.png'>
+
 <p><strong>Penny Grow</strong> is a personal finance app designed to help users track their savings, set goals, and grow their wealth over time. The app offers a simple and intuitive interface to manage your finances and visualize your progress.</p>
 
 <h2>Features</h2>
